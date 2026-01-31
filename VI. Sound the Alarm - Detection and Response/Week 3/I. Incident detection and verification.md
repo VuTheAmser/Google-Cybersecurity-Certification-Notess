@@ -114,11 +114,14 @@ Finding private secrets hardcoded in code changes (ideally prevented earlier, bu
 ## Proactive Security Through Monitoring for IoCs
 Ongoing monitoring of CI/CD pipelines, focusing on automated anomaly detection and finding IoCs, makes your security stronger and more proactive. By using monitoring tools to continuously check pipeline activity for these indicators before serious damage occurs, you can:
 
-### - Respond to Incidents Quickly: Finding IoCs early helps security teams respond rapidly to potential attacks, stopping problems before attackers reach their goals.
+### - Respond to Incidents Quickly: 
+Finding IoCs early helps security teams respond rapidly to potential attacks, stopping problems before attackers reach their goals.
 
-### - Limit the Damage: Responding quickly based on IoC detection reduces the possible impact of a security issue by limiting how long attackers are in the pipeline.
+### - Limit the Damage: 
+Responding quickly based on IoC detection reduces the possible impact of a security issue by limiting how long attackers are in the pipeline.
 
-### - Improve Threat Knowledge: Checking IoCs gives valuable information about how attackers are targeting your CI/CD, which helps improve security and threat hunting in the future.
+### - Improve Threat Knowledge: 
+Checking IoCs gives valuable information about how attackers are targeting your CI/CD, which helps improve security and threat hunting in the future.
 
 ## Using Automation to Find Anomalies and IoCs
 To monitor CI/CD pipelines and automatically find threats, you can use these methods:
