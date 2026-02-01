@@ -24,6 +24,6 @@ This repository is a collaborative effort! If you've found a typo, want to sugge
 
 ## 🚀 Let's Connect
 
-If you're on a cybersecurity journey too, let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/khlbulaong/). Let's learn and grow together! 👥💬
+If you're on a cybersecurity journey too, let's connect! Find me on [LinkedIn]([https://www.linkedin.com/in/trinhhoangvu1603/]). Let's learn and grow together! 👥💬
 
 Remember, the cybersecurity world is exciting, challenging, and always changing. Stay curious, stay determined, and let's make the digital realm a safer place for everyone! 🌐🔐
