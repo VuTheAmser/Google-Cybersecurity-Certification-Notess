@@ -68,16 +68,16 @@ After the header of an `if` statement comes the body of the `if` statement. This
 
 - **else Statements:** The `else` keyword is followed by a code section that evaluates only when all preceding conditions in the conditional statement are False.
 
-  ```python
+```python
 if status == 200:
 	print("OK")
 else:
 	print("check other status")
-  ```
+```
 
 - **elif Statements:** The `elif` keyword introduces a condition that is evaluated only when previous conditions are False. Multiple `elif` statements can follow an `if`.
 
-  ```python
+```python
 if status == 200:
 	print("OK")
 elif status == 400:
@@ -86,30 +86,30 @@ elif status == 500:
 	print("Internal Server Error")
 else:
 	print("check other status")
-  ```
+```
 
 **Logical Operators for Multiple Conditions**
 
 - **and Operator:** Requires both conditions on either side to be True.
 
-  ```python
+```python
 if status >= 200 and status <= 226:
 	print("successful response")
-  ```
+```
 
 - **or Operator:** Requires at least one condition on either side to be True.
 
-  ```python
+```python
 if status == 100 or status == 102:
 	print("informational response")
-  ```
+```
 
 - **not Operator:** Negates a condition.
 
-  ```python
+```python
 if not (status >= 200 and status <= 226):
 	print("check status")
-  ```
+```
 
 Parentheses are necessary to apply `not` to both conditions.
 
